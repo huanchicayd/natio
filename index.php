@@ -24,7 +24,7 @@
     </section>
 
     <section>
-
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias consectetur consequuntur distinctio, error est hic ipsa iste itaque magnam maiores natus neque nobis officia quasi quibusdam, quis similique ullam vitae.
     </section>
 </main>
 
