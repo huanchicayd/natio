@@ -18,7 +18,7 @@
 //$color-five: ;
 
 //Fonts
-
+$helvetica-light: 'HelveticaNeueLTStd-LtCn';
 
 
 //Mixins
@@ -221,14 +221,13 @@ html {
 }
 
 body {
-	font-family: 'HelveticaNeueLTStd-LtCn', sans-serif;
+	font-family: $helvetica-light, sans-serif;
 	font-size: 18px;
 	line-height: 1.6;
 	letter-spacing: 0.2pt;
 	color: #666977;
 	background: #fff;
 	overflow-x: hidden;
-	/*color: #515151;*/
 }
 
 section {
@@ -246,16 +245,16 @@ h1 {
 	margin: 0;
 	padding: 0;
 	text-transform: uppercase;
-	font-family: 'HelveticaNeueLTStd-UltLtCn';
+	font-family: $helvetica-light;
 }
 
 h2 {
-	font-size: 75px;
+	font-size: 40px;
 	line-height: 1.2;
 	margin: 0;
 	padding: 0;
 	text-transform: uppercase;
-	font-family: 'HelveticaNeueLTStd-UltLtCn';
+	font-family: $helvetica-light;
 }
 
 h3 {

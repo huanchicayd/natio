@@ -100,14 +100,13 @@ html {
   overflow-x: hidden; }
 
 body {
-  font-family: 'HelveticaNeueLTStd-LtCn', sans-serif;
+  font-family: "HelveticaNeueLTStd-LtCn", sans-serif;
   font-size: 18px;
   line-height: 1.6;
   letter-spacing: 0.2pt;
   color: #666977;
   background: #fff;
-  overflow-x: hidden;
-  /*color: #515151;*/ }
+  overflow-x: hidden; }
 
 section {
   margin: 100px 0; }
@@ -122,15 +121,15 @@ h1 {
   margin: 0;
   padding: 0;
   text-transform: uppercase;
-  font-family: 'HelveticaNeueLTStd-UltLtCn'; }
+  font-family: "HelveticaNeueLTStd-LtCn"; }
 
 h2 {
-  font-size: 75px;
+  font-size: 40px;
   line-height: 1.2;
   margin: 0;
   padding: 0;
   text-transform: uppercase;
-  font-family: 'HelveticaNeueLTStd-UltLtCn'; }
+  font-family: "HelveticaNeueLTStd-LtCn"; }
 
 h3 {
   font-size: 24px;

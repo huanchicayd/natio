@@ -24,13 +24,22 @@
     </section>
 
     <section>
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias consectetur consequuntur distinctio, error est hic ipsa iste itaque magnam maiores natus neque nobis officia quasi quibusdam, quis similique ullam vitae.
-    </section>
-    <section>
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur corporis eligendi ipsum molestias rem? Consequatur delectus quasi quia. Architecto, aut distinctio dolor dolore impedit non officiis omnis quae vero? Adipisci!
-    </section>
-    <section>
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequatur, cupiditate, dicta dolor eaque explicabo incidunt ipsa libero necessitatibus non nostrum pariatur quas reiciendis sint sit temporibus voluptas voluptates? Eaque, ipsa.
+        <div class="col-md-4">
+            <a href="">
+                Block 01
+            </a>
+        </div>
+        <div class="col-md-2">
+            <a href="">
+                Block 02
+            </a>
+        </div>
+        <div class="col-md-2">
+            3
+        </div>
+        <div class="col-md-4">
+            4
+        </div>
     </section>
 </main>
 
