@@ -8,13 +8,14 @@ $( document ).ready(function() {
 	// 	dots: true,
 	// 	speed: 2000
 	// });
-	//
-	// $('.processo-slider').slick({
-	// 	autoplay:true,
-	// 	autoplaySpeed: 5000,
-	// 	speed: 2000,
-	// 	arrows: false
-	// });
+
+	$('.processos-slider').slick({
+		autoplay:true,
+		autoplaySpeed: 5000,
+		speed: 2000,
+		arrows: false,
+		dots: false
+	});
 	
 	$('.nav-btn').click(function(){
 		$('.nav-btn').toggleClass('nav-btn-active');

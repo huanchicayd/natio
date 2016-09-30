@@ -19,28 +19,61 @@
     </section>
 
     <section>
-        <h2>processos</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium adipisci alias aut, blanditiis, consequatur culpa distinctio ea iure molestiae officia provident saepe sed sit. Dolores ipsum iste obcaecati placeat sint!</p>
+        <div class="processos-bg">
+            <div class="processos-slider debug container">
+                <div>
+                    <h3></h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing e</p>
+                </div>
+                <div>
+                    <h3></h3>
+                    <p>Lorem ipsum dolor sit amet, consecte</p>
+                </div>
+                <div>
+                    <h3></h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing</p>
+                </div>
+                <div>
+                    <h3></h3>
+                    <p>Lorem ipsum dolor sit amet, co</p>
+                </div>
+                <div>
+                    <h3></h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing</p>
+                </div>
+                <div>
+                    <h3></h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing el</p>
+                </div>
+                <div>
+                    <h3></h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                </div>
+            </div>
+        </div>
     </section>
 
-    <section>
-        <div class="col-md-4">
-            <a href="">
-                Block 01
-            </a>
-        </div>
-        <div class="col-md-2">
-            <a href="">
-                Block 02
-            </a>
-        </div>
-        <div class="col-md-2">
-            3
-        </div>
-        <div class="col-md-4">
-            4
-        </div>
-    </section>
+    <div class="container">
+        <section>
+            <div class="col-md-4">
+                <a href="">
+                    Block 01
+                </a>
+            </div>
+            <div class="col-md-2">
+                <a href="">
+                    Block 02
+                </a>
+            </div>
+            <div class="col-md-2">
+                3
+            </div>
+            <div class="col-md-4">
+                4
+            </div>
+        </section>
+    </div>
+
 </main>
 
 <?php include('footer.php') ?>
